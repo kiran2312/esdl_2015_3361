@@ -1,5 +1,6 @@
 Hello!
 Good Morning!
-This is calculator file.
+Have a Nice Day!
+
 
 Dated August 20 2015.
